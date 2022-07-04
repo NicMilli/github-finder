@@ -1,4 +1,4 @@
-#GitHud finder app
+# GitHub finder app
 # [View the published app here!](https://github-finder-ten-alpha.vercel.app/)
 
 This is a search tool to find users on github and view key information and stats from their profile. It was taught in [React Front-to-Back](https://www.udemy.com/course/react-front-to-back-2022/) on Udemy.
