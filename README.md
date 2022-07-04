@@ -28,7 +28,7 @@ The aim was to creater a user interface for interacting with the GitHub API, pro
 # Successes and short-comings:
 * Success:
   * Learning React Hooks
-  * A sleek, responsive design using Daisy UI
+  * A sleek, responsive design using Daisy UI and Tailwind
   * Making API calls using axios and React hooks
 
 * Short-comings:
