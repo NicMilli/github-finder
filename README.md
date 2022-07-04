@@ -10,7 +10,7 @@ This is a search tool to find users on github and view key information and stats
 - useContext hook
 - useReducer hook
 
-##Technologies Used:
+## 💻Technologies used:
 - Axios
 - Daisy UI
 - Tailwind
